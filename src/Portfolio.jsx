@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { ChevronLeft, ChevronRight, Contact, Contact2Icon, Download, Mail, Send } from "lucide-react"
 
-export default function Component() {
+export default function Portfolio () {
   const [activeSection, setActiveSection] = useState("home")
 
   const skills = [

@@ -1,11 +1,11 @@
-import Portfolio from "./assets/Portfolio"
+import Portfolio from "./Portfolio"
+
 
 function App() {
 
   return (
     <>
-      <Portfolio />
-      
+      <Portfolio />      
     </>
   )
 }
